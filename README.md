@@ -3,6 +3,10 @@
 - 🌱 I'm learning Django and studing to system administrator certificate exam on RedHat entreprise 
 
 
+<p align='center'>
+[ <a href='https://github.com/Soldy/ama/issues/new'>Ask a question</a> ] ||
+[ <a href='https://github.com/Soldy/ama/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
+</p>
 <img src="https://gidigi.com/cdn/love.gif">
 <p> Here is some projects than I Love.</p>
 
