@@ -41,6 +41,6 @@ Why Hong Kong? Becase i just want..
 
 ![](https://giphy.com/embed/fniVO5yA3ddAq6A19V)
 <p align='center'>
-[ <a href='https://github.com/Soldy/ama/issues/new'>Ask a question</a> ] ||
-[ <a href='https://github.com/Soldy/ama/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
+[ <a href='https://github.com/iagomussel/iagomussel/issues/new'>Ask a question</a> ] ||
+[ <a href='https://github.com/iagomussel/iagomussel/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
 </p>
