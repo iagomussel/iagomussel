@@ -15,7 +15,7 @@
 
 
 
-### Companies I target for the future
+### Companies that I look to the future
 
 - Google (ever)
 - Hubspot
