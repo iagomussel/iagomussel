@@ -3,6 +3,9 @@
 - 🔭 I'm currently work with devops on Ezops.cloud
 - 🌱 I'm learning Django and studing to system administrator certificate exam on RedHat entreprise 
 
+![](https://64.media.tumblr.com/tumblr_m53tufJiok1qg6rkio8_250.gif)
+
+
 ### Here is some projects than I Love.
 
 - [vuejs/vue](https://github.com/vuejs/vue)
@@ -12,7 +15,7 @@
 
 ### Companies that I look to the future
 
-- Google (ever)
+- Google (always)
 - Hubspot
 - AWS
 
