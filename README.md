@@ -16,8 +16,8 @@
 
 
 ### 🤌🏾 Here is some projects than I Love.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=vuejs&repo=vue&theme=material-palenight&locale=pt-br)](https://github.com/iagomussel/larodon)<br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=request&repo=request&theme=material-palenight&locale=pt-br)](https://github.com/iagomussel/larodon)<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=vuejs&repo=vue&theme=material-palenight&locale=pt-br)](https://github.com/vuejs/vue)<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=request&repo=request&theme=material-palenight&locale=pt-br)](https://github.com/request/request)<br />
 
 
 ### ⛏ My Projects
