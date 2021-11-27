@@ -1,9 +1,10 @@
 ### Hi, I am iago Mussel.👋
+
 - 🔭 I'm currently work with devops on Ezops.cloud
 - 🌱 I'm learning Django and studing to system administrator certificate exam on RedHat entreprise 
 
-<img src="https://gidigi.com/cdn/love.gif">
 ### Here is some projects than I Love.
+
 - [vuejs/vue](https://github.com/vuejs/vue)
 - [request/request](https://github.com/request/request) 
 
