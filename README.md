@@ -1,5 +1,5 @@
 ### Hi, I am iago Mussel.👋
-- 🔭 I'm currently work as devops on Ezops.cloud
+- 🔭 I'm currently work with devops on Ezops.cloud
 - 🌱 I'm learning Django and studing to system administrator certificate exam on RedHat entreprise 
 
 
