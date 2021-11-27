@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I am iago Mussel.👋
+- 🔭 I'm currently work as devops on Ezops.cloud
+- 🌱 I'm learning Django and studing to system administrator certificate exam on RedHat entreprise 
 
-<!--
-**iagomussel/iagomussel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://gidigi.com/cdn/love.gif">
+<p> Here is some projects than I Love.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [vuejs/vue](https://github.com/vuejs/vue)
+- [request/request](https://github.com/request/request) 
+
+
+
+### Companies I target for the future
+
+- Google (ever)
+- Hubspot
+- AWS
+
+
+###  Live
+
+I live in Brazil, but I'm going to live in Hong Kong
+
+Why Hong Kong? Becase i just want..
