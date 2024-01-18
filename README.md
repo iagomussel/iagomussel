@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Cloud Solution Architect with a s
 - Version Control: Git
 
 ## 🤌🏾 Here is some projects than I Love.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=vuejs&repo=vue&theme=material-palenight&locale=pt-br)](https://github.com/vuejs/vue)<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=vuejs&repo=vue&theme=material-palenight&locale=pt-br)](https://github.com/vue/vue)<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=psf&repo=requests&theme=material-palenight&locale=pt-br)](https://github.com/psf/requests)<br />
 
 
@@ -46,7 +46,6 @@ I live in Brazil, but I'm going to live in Hong Kong
 Why Hong Kong? Becase i just want..
 
 ![](https://giphy.com/embed/fniVO5yA3ddAq6A19V)
-<p align='center'>
-[ <a href='https://github.com/iagomussel/iagomussel/issues/new'>Ask a question</a> ] ||
-[ <a href='https://github.com/iagomussel/iagomussel/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
-</p>
+
+[Ask a question](https://github.com/iagomussel/iagomussel/issues/new)||
+[Read questions](https://github.com/iagomussel/iagomussel/issues?q=is%3Aissue+is%3Aclosed)
